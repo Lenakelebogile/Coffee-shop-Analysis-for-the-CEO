@@ -1,8 +1,13 @@
 # Coffee-shop-Analysis-for-the-CEO
 
 Problem statement 
-
-
+Bright Coffee Shop is a retail coffee business currently undergoing a leadership transition with the appointment of a new CEO. To support the CEO’s strategic goal of increasing revenue and improving product performance, there is a need to extract actionable insights from historical transactional data collected at the store level.
+The core challenge is to analyze this sales data to identify:
+Which products contribute the most to revenue
+When during the day the store experiences the highest and lowest sales
+Trends in customer purchasing behavior over time
+Underperforming product categories that may need adjustment
+The analysis must not only answer these questions but also guide the CEO with data-driven recommendations on sales optimization, inventory planning, and marketing strategies.
 
 The Aim of the project
 You have been provided with a dataset titled “Bright Coffee Shop Sales”, which captures daily transactional information from a coffee shop. The business has recently appointed a new CEO whose mission is to grow the company’s revenue and improve product performance. Your role, as a Junior Data Analyst, is to extract actionable insights from historical data and prepare a presentation to assist the CEO in decision-making.
