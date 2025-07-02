@@ -8,16 +8,22 @@ Sales by time of the day (highest to lowest)
 Morning 
 Afternoon
 Evening 
-
 Product contribution  coffeee and tea contributed the most revenue the most revenue while others products contributed less
+Most of thier revenue is done mostly on the morning and the afternoon 
+Percentage of the profit is ranging from 50% to 85%
+
 
 RECOMMENDATIONS
+
 Boosts inventory for the top selling items to meet demands and increase revenue during peak hours
 Optimise stock levels  and products placement 
 To introduce targeted promotions in order fro incentives
 
+PERIOD
+This anlysis was done in 4 weeks Looking at the Morning  Afternoon Evening periods
+ 
+PROBLEM STATEMENT
 
-Problem statement 
 Bright Coffee Shop is a retail coffee business currently undergoing a leadership transition with the appointment of a new CEO. To support the CEO’s strategic goal of increasing revenue and improving product performance, there is a need to extract actionable insights from historical transactional data collected at the store level.
 The core challenge is to analyze this sales data to identify:
 Which products contribute the most to revenue
@@ -56,7 +62,8 @@ Canva
 Miro
 Figma
 
-Objectives of the project
+OBJECTIVES OF THIS ANALYSIS
+
 Use your analytics, SQL, and data visualization skills to help Bright Coffee Shop understand:
 Which products generate the most revenue
 What time of day the store performs best
@@ -98,6 +105,7 @@ Prepare a Presentation to deliver insights to the CEO. Include: 1. Overview of y
 Marketing campaigns during slow time slots
 Stock more of the best-selling items
 Promote underperforming products
+
 4. Next Steps:
 Automate daily sales reporting
 Track sales performance across multiple locations in the future
