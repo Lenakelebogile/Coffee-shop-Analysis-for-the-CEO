@@ -21,6 +21,9 @@ RECOMMENDATIONS
 Boosts inventory for the top selling items to meet demands and increase revenue during peak hours
 Optimise stock levels  and products placement 
 To introduce targeted promotions in order fro incentives
+Marketing campaigns during slow time slots
+Stock more of the best-selling items
+Promote underperforming products
 
 PERIOD
 This anlysis was done in 4 weeks Looking at the Morning  Afternoon Evening periods
@@ -121,12 +124,7 @@ Task 4: Presentation to the CEO
 Prepare a Presentation to deliver insights to the CEO. Include:
 1. Overview of your approach – Create a separate document for your Methodology
 2.   Key insights from your analysis (backed by visuals) – Create a separate document for your Presentation
-    
-RECOMMANDATIONS 
-
-Marketing campaigns during slow time slots
-Stock more of the best-selling items
-Promote underperforming products
+   
 
 5. Next Steps:
 Automate daily sales reporting
