@@ -1,4 +1,21 @@
 # Coffee-shop-Analysis-for-the-CEO
+This repository contains a detailed  analysis for coffee shop with different location,the goal of this is to get a clear understanding  of the revenue trends,sales trends across  products and the time intervals ,what time of the day does the store seems to have high sales it also looks at the customer behaviour and identifiyes strategies on how to grow the business
+
+SUMMARY OF FINDINGS 
+Revenue increase from month to month
+The three stores contributed nearly the same revenue
+Sales by time of the day (highest to lowest)
+Morning 
+Afternoon
+Evening 
+
+Product contribution  coffeee and tea contributed the most revenue the most revenue while others products contributed less
+
+RECOMMENDATIONS
+Boosts inventory for the top selling items to meet demands and increase revenue during peak hours
+Optimise stock levels  and products placement 
+To introduce targeted promotions in order fro incentives
+
 
 Problem statement 
 Bright Coffee Shop is a retail coffee business currently undergoing a leadership transition with the appointment of a new CEO. To support the CEO’s strategic goal of increasing revenue and improving product performance, there is a need to extract actionable insights from historical transactional data collected at the store level.
