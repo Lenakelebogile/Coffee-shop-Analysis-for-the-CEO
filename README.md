@@ -15,7 +15,6 @@ The sales drops during mid-day  hours releveled gaps in lunch offering
 our stores had signaificanlty   higher morning revenue-potential for breakfast promotions 
 Percentage of the profit is ranging from 50% to 85%
 
-
 RECOMMENDATIONS
 
 Boosts inventory for the top selling items to meet demands and increase revenue during peak hours
@@ -24,12 +23,10 @@ To introduce targeted promotions in order fro incentives
 Marketing campaigns during slow time slots
 Stock more of the best-selling items
 Promote underperforming products
-
 PERIOD
 This anlysis was done in 4 weeks Looking at the Morning  Afternoon Evening periods
  
 PROBLEM STATEMENT
-
 Bright Coffee Shop is a retail coffee business currently undergoing a leadership transition with the appointment of a new CEO. To support the CEO’s strategic goal of increasing revenue and improving product performance, there is a need to extract actionable insights from historical transactional data collected at the store level.
 The core challenge is to analyze this sales data to identify:
 Which products contribute the most to revenue
