@@ -13,10 +13,16 @@ Product contribution  coffeee and tea contributed the most revenue the most reve
 Most of thier revenue is done mostly on the morning and the afternoon 
 The sales drops during mid-day  hours releveled gaps in lunch offering 
 our stores had signaificanlty   higher morning revenue-potential for breakfast promotions 
-Percentage of the profit is ranging from 50% to 85%
+Monthly contribution to total revenue
+Jan:12%
+Feb :11%
+Mar:14%
+Apr:17%
+May:22%
+Jun:24%
+Quantity also grew at the same rate,showing stable unit pricing
 
 RECOMMENDATIONS
-
 Boosts inventory for the top selling items to meet demands and increase revenue during peak hours
 Optimise stock levels  and products placement 
 To introduce targeted promotions in order fro incentives
