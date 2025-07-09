@@ -4,6 +4,7 @@ is to extract actionable insights from historical data and prepare a presentatio
 
 Tools used 
 
+
 •	Coding Platforms:
 •	SQL Platforms
 •	Snowflake data visualization 
@@ -15,6 +16,8 @@ Tools used
 Summary of findings
 
 Revenue increase from month to month The three stores contributed nearly the same revenue Sales by time of the day (highest to lowest) Morning Afternoon Evening Product contribution coffee and tea contributed the most revenue the most revenue while others products contributed less Most of their revenue is done mostly on the morning and the afternoon The sales drops during mid-day hours releveled gaps in lunch offering our stores had significantly higher morning revenue-potential for breakfast promotions Monthly contribution to total revenue
+
+
 •	Jan:12%
 •	Feb :11% 
 •	Mar:14% 
